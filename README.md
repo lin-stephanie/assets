@@ -1,1 +1,1 @@
-For storing project asset.
+For storing project asset. 📦
